@@ -8,7 +8,7 @@ ResoRefine Pro is a free AI noise removing and audio enhancing tool built for po
 * **100% Private & Offline:** Your audio never goes to the cloud. It processes entirely locally via AI engine.
 * **Remove Noise & Echo:** Instantly clean up mic hiss, fan noise, and room echo using deep-learning suppression.
 * **Studio Desk Control:** Dial in "Broadcast Warmth" (Bass) and "Vocal Clarity" (Treble) for a rich, professional podcast sound.
-* **Auto-Leveling:** Built-in studio compression ensures perfectly balanced, clear audio for YouTube, Spotify, and TikTok.
+* **Auto-Leveling:** Built-in studio compression ensures perfectly balanced, clear audio for YouTube, Instagram, and TikTok.
 
 ---
 
@@ -21,8 +21,8 @@ If you just want to clean up your audio without installing Python or dealing wit
 
 1. Go to the **Releases** section on the right side of this GitHub page.
 2. Download the latest `ResoRefine.exe` file.
-3. Double-click the `.exe` file to launch the application. *(No installation required!)*
-4. Drag and drop your noisy audio file into the upload zone.
+3. Double-click the `.exe` file to install the application.
+4. Select your noisy audio file into the upload zone.
 5. Adjust your *Warmth* and *Clarity* sliders, then click **Render Studio Audio**.
 6. Once processing is complete, click **Export Final File** to save your new `.wav` track.
 
@@ -34,5 +34,5 @@ Ensure you have [Python 3.10 or newer](https://www.python.org/downloads/) instal
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/resorefine-pro.git](https://github.com/YOUR_GITHUB_USERNAME/resorefine-pro.git)
-   cd resorefine-pro
+   git clone [https://github.com/ResoRefine-AI/ResoRefine-AI.git](https://github.com/ResoRefine-AI/ResoRefine-AI.git)
+   cd ResoRefine-AI
