@@ -36,3 +36,22 @@ Ensure you have [Python 3.10 or newer](https://www.python.org/downloads/) instal
 ```bash
    git clone https://github.com/ResoRefine-AI/ResoRefine-AI.git
    cd ResoRefine-AI
+```
+
+2. **Install the required dependencies:**
+   Make sure you are in the project folder, then run:
+```bash
+   pip install -r requirements.txt
+```
+
+3. **Run the application:**
+```bash
+python app.py
+```
+
+## Built With
+
+-CustomTkinter - Modern GUI.
+-DeepFilterNet - AI-powered noise and echo suppression.
+-Pedalboard (by Spotify) - Studio-grade audio compression, EQ, and limiting.
+-FFmpeg - Audio formatting and normalization.
