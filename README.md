@@ -1,4 +1,4 @@
-# ResoRefine Pro
+# ResoRefine AI
 Free AI Audio Enhancer &amp; Noise Reduction tool for Windows.
 
 ResoRefine Pro is a free AI noise removing and audio enhancing tool built for podcasters, YouTubers, and indie creators to get pristine audio without recurring fees. Just drop in a noisy, echoing recording, click "Render," and instantly get a broadcast-ready `.wav` file.
@@ -34,5 +34,5 @@ Ensure you have [Python 3.10 or newer](https://www.python.org/downloads/) instal
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/ResoRefine-AI/ResoRefine-AI.git](https://github.com/ResoRefine-AI/ResoRefine-AI.git)
+   git clone https://github.com/ResoRefine-AI/ResoRefine-AI.git
    cd ResoRefine-AI
